@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fp-upit-dvormvr-gsot
 - 👀 I’m interested in creating an app
 - 🌱 I’m currently learning about APIs, javascript and python
-- 💞️ I’m looking to collaborate on my science fair project
+- 💞️ I’m (one of us) is looking to actually collaborate on my science fair project
 - 📫 How to reach us ... don't.
 - 😄 Pronouns: two people.
 - ⚡ Fun fact: @fp-upit-dvormvr-gsot means do-your-science-fair!
